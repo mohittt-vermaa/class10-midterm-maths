@@ -1,8 +1,10 @@
-# Class 10 Maths — Mid-Term Exam (80 Marks)
+# Class 10 Maths — Mid-Term Exam (80 Marks) | For CBSE Students
 ## Most Expected Questions — Chapters 1 to 6
-*(Compiled from NCERT exercises, board-paper repeat patterns and R.S. Aggarwal favourites)*
+*(Compiled from NCERT exercises, CBSE board-paper repeat patterns and R.S. Aggarwal favourites)*
 
 **Suggested paper pattern:** Section A — 1 mark, Section B — 2 marks, Section C — 3 marks, Section D — 4 marks.
+
+> ✍️ **Stepwise CBSE board-type solutions to every question are in [`SOLUTIONS_CBSE_Board_Type.md`](SOLUTIONS_CBSE_Board_Type.md)** — written exactly the way you should answer in the board exam, with step-wise marking.
 
 | Chapter | Expected Weightage |
 |---|---|
@@ -33,7 +35,7 @@
 ### Section C (3 marks)
 7. Prove that √5 is irrational. *(Most repeated question in this chapter)*
 8. Prove that 5 − √3 is irrational.
-9. Find the HCF and LCM of 12, 15 and 21 by the Fundamental Theorem of Arithmetic, and verify that HCF × LCM = product of the numbers.
+9. Find the HCF and LCM of 12, 15 and 21 by the Fundamental Theorem of Arithmetic. Verify that HCF × LCM = product of the two numbers for the pair 12 and 15.
 
 ### Section D (4 marks)
 10. Find the greatest number which divides 615 and 963, leaving remainder 6 in each case. `[Ans: HCF(609, 957) = 87]`
@@ -76,13 +78,13 @@
 3. If x = 2, y = 3 is a solution of 2x + 3y = k, find k. `[Ans: 13]`
 
 ### Section B (2 marks)
-4. Solve x + y = 5 and 2x − 3y = 4 by elimination. If y = mx + 3 is also satisfied by this solution, find m. `[Ans: x = 19/5, y = 6/5, m = 2/7]`
+4. Solve x + y = 5 and 2x − 3y = 4 by elimination. If y = mx + 3 is also satisfied by this solution, find m. `[Ans: x = 19/5, y = 6/5, m = −9/19]`
 5. Find k for which the system 3x + y = 1 and (2k − 1)x + (k − 1)y = 2k + 1 has no solution. `[Ans: k = 2]`
 
 ### Section C (3 marks)
-6. Determine a and b for which 2x + 3y = 7 and (a − b)x + (a + b)y = 3a + b − 2 has infinitely many solutions. `[Ans: a = 3, b = 1]`
-7. A father says: "Seven years ago I was seven times as old as you, and three years from now I shall be three times as old as you." Find their present ages. `[Ans: Father 37, daughter 12]`
-8. A fraction becomes 1 if 1 is added to the numerator and 1 subtracted from the denominator. It becomes ½ if 1 is added only to the denominator. Find the fraction. `[Ans: 3/4]`
+6. Determine a and b for which 2x + 3y = 7 and (a − b)x + (a + b)y = 3a + b − 2 has infinitely many solutions. `[Ans: a = 5, b = 1]`
+7. A father says: "Seven years ago I was seven times as old as you, and three years from now I shall be three times as old as you." Find their present ages. `[Ans: Father 42, daughter 12]`
+8. A fraction becomes 1 if 1 is added to the numerator and 1 subtracted from the denominator. It becomes ½ if 1 is added only to the denominator. Find the fraction. `[Ans: 3/5]`
 
 ### Section D (4 marks)
 9. Solve graphically: x − y + 1 = 0 and 3x + 2y − 12 = 0. Also find the coordinates of the vertices of the triangle formed by these lines and the x-axis. `[Ans: Solution (2, 3); vertices (−1, 0), (2, 3), (4, 0)]`
@@ -96,7 +98,7 @@
 **Quick revision:** For ax² + bx + c = 0 → Discriminant D = b² − 4ac • Equal roots ⟺ D = 0 • Roots by factorisation (splitting the middle term) and by the quadratic formula x = [−b ± √D]/2a.
 
 ### Section A (1 mark)
-1. If x = 3 is a root of kx² − 7x + 12 = 0, find k. `[Ans: 3]`
+1. If x = 3 is a root of kx² − 7x + 12 = 0, find k. `[Ans: 1]`
 2. Find the discriminant of 2x² − 4x + 3. `[Ans: −8]`
 3. Find c so that x² + 2x + c = 0 has equal roots. `[Ans: 1]`
 
@@ -109,7 +111,7 @@
 7. Solve 2x² − 7x + 3 = 0 by completing the square (or the quadratic formula). `[Ans: 3, ½]`
 8. Find k so that kx(x − 2) + 6 = 0 has two equal roots. `[Ans: k = 6]`
 9. The sum of the squares of two consecutive positive integers is 365. Find the integers. `[Ans: 13 and 14]`
-10. The sum of two numbers is 15 and the sum of their reciprocals is 3/10. Find the numbers. `[Ans: 6 and 9]`
+10. The sum of two numbers is 15 and the sum of their reciprocals is 3/10. Find the numbers. `[Ans: 5 and 10]`
 
 ### Section D (4 marks)
 11. A train travels 360 km at a uniform speed. If the speed had been 5 km/h more, it would have taken 1 hour less. Find the speed of the train. `[Ans: 40 km/h]`
@@ -134,7 +136,7 @@
 
 ### Section C (3 marks)
 7. Find the sum of the first 15 multiples of 8. `[Ans: 960]`
-8. Find the sum of all two-digit numbers divisible by 7. `[Ans: 665]`
+8. Find the sum of all two-digit numbers divisible by 7. `[Ans: 728]`
 9. If the 11th term of an AP is 38 and the 16th term is 73, find the 31st term. `[Ans: 178]`
 10. Find the 20th term from the end of the AP: 3, 8, 13, …, 253. `[Ans: 158]`
 
@@ -142,7 +144,7 @@
 11. If m times the mth term of an AP equals n times its nth term, prove that the (m + n)th term is 0. *(R.S. Aggarwal classic)*
 12. If the ratio of the sums of n terms of two APs is (7n + 1) : (4n + 27), find the ratio of their 9th terms. `[Ans: 24 : 19]`
 13. Which is the first negative term of the AP: 121, 117, 113, …? `[Ans: 32nd term]`
-14. Find the sum of the first 40 positive integers divisible by 6. `[Ans: 4200]`
+14. Find the sum of the first 40 positive integers divisible by 6. `[Ans: 4920]`
 
 ---
 
@@ -173,11 +175,11 @@
 ---
 
 ## Exam Tips (for scoring full marks)
-- **Show every step** — board marking is stepwise. In linear equations, write the equations, the method, the working, and box the final answer.
+- **Show every step** — CBSE marking is stepwise. In linear equations, write the equations, the method, the working, and box the final answer.
 - **Always verify** zeroes–coefficient relationships (Ch 2) and HCF × LCM (Ch 1) when asked; they carry marks.
 - In **word problems** (Ch 3 & 4), clearly state what x and y represent, form both equations, and end with a one-line conclusion in words.
 - For **graphical questions** (Ch 3 & 6), use a sharp pencil, label axes, plot at least 3 points per line, and mark the intersection clearly.
 - For **irrationality proofs**, write the standard contradiction structure: assume rational = p/q (coprime) → show a prime divides both p and q → contradiction.
 - Attempt questions in the order: Ch 1 → Ch 6 (short, sure marks) if you feel nervous; otherwise follow the paper order. Do the 4-markers with the questions you are most confident in first.
 
-*All answers in [brackets] are for self-checking — show complete working in the exam.*
+*All answers in [brackets] are for self-checking — show complete working in the exam. Full stepwise solutions: see [`SOLUTIONS_CBSE_Board_Type.md`](SOLUTIONS_CBSE_Board_Type.md).*

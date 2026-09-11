@@ -1,23 +1,22 @@
-# 📘 Class 10 Maths — Mid-Term (80 Marks) Expected Questions
+# 📘 Class 10 Maths — Mid-Term (80 Marks) Expected Questions | For CBSE Students
 
-> A curated, exam-focused question bank of the **most expected questions** from **NCERT** and **R.S. Aggarwal** for the Class 10 Mathematics mid-term / first-term examination (80 marks), covering Chapters 1–6.
+> A curated, exam-focused question bank of the **most expected questions** from **NCERT** and **R.S. Aggarwal** for the Class 10 Mathematics mid-term / first-term examination (80 marks), covering Chapters 1–6 — **prepared especially for CBSE students**.
 
 ![Chapters](https://img.shields.io/badge/Chapters-1_to_6-blue)
 ![Marks](https://img.shields.io/badge/Paper-80_marks-green)
 ![Board](https://img.shields.io/badge/Board-CBSE-orange)
+![Students](https://img.shields.io/badge/For-CBSE_Students-brightgreen)
 
 ---
 
 ## 🎯 What's Inside?
 
-A single, well-organised practice sheet with **70+ expected questions**, split section-wise exactly like a real paper:
+Two files, one goal — full marks:
 
-| Section | Marks per question |
+| File | What it contains |
 |---|---|
-| Section A | 1 mark |
-| Section B | 2 marks |
-| Section C | 3 marks |
-| Section D | 4 marks |
+| [`Class10_Midterm_Expected_Questions_Maths.md`](Class10_Midterm_Expected_Questions_Maths.md) | **70+ expected questions**, split section-wise exactly like a real paper (1/2/3/4 marks) |
+| [`SOLUTIONS_CBSE_Board_Type.md`](SOLUTIONS_CBSE_Board_Type.md) | ✍️ **Complete stepwise solutions in CBSE board answer style**, with step-wise marking, exactly how you should write answers in the exam |
 
 ### 📚 Chapters Covered
 
@@ -32,27 +31,28 @@ A single, well-organised practice sheet with **70+ expected questions**, split s
 
 ### ✨ Features
 
-- ✅ Questions that **repeatedly appear** in board and school exams
+- ✅ Questions that **repeatedly appear** in CBSE board and school exams
 - 🔑 **Quick formula revision** at the start of every chapter
-- 🧮 **Answers provided in brackets** for self-checking
-- 📝 Step-wise exam tips for scoring full marks
-- 🏷️ Marked (1/2/3/4) like a real question paper
+- ✍️ **CBSE board-type answers** — stepwise, with marks shown for each step
+- 🧮 Answers provided in brackets for quick self-checking
+- 📝 Exam tips for scoring full marks
 
 ## 🚀 How to Use
 
-1. Open [`Class10_Midterm_Expected_Questions_Maths.md`](Class10_Midterm_Expected_Questions_Maths.md).
-2. Solve one chapter per day, starting with 1-mark questions.
-3. Self-check using the bracketed answers — but always write full working, since board marking is step-wise.
-4. Attempt the Section D word problems last (train, boat, and age problems are the most frequently asked).
+1. Read the question bank chapter by chapter.
+2. Attempt each question **on paper first**, the way you would in the exam.
+3. Open [`SOLUTIONS_CBSE_Board_Type.md`](SOLUTIONS_CBSE_Board_Type.md) and compare your answer **step by step** — check if you wrote every step that carries marks.
+4. Practise the Section D word problems (train, boat, age) last — they are the most frequently asked.
 
 ## 📖 References
 
 - NCERT Class 10 Mathematics (Exercises & Exemplar patterns)
 - R.S. Aggarwal Secondary School Mathematics for Class 10
+- CBSE marking scheme patterns
 
 ## 🤝 Contributing
 
-Contributions are welcome! If you spot an error in an answer, or want to add questions from other chapters (7–15), feel free to open an **Issue** or a **Pull Request**.
+Contributions are welcome! If you spot an error, or want to add questions/solutions from other chapters (7–15), feel free to open an **Issue** or a **Pull Request**.
 
 ## 📄 License
 
@@ -60,4 +60,4 @@ This project is licensed under the [MIT License](LICENSE) — free to use, share
 
 ---
 
-*Made with ❤️ for Class 10 students preparing for their mid-term exams.*
+*Made with ❤️ for CBSE Class 10 students preparing for their mid-term exams.*
